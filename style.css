@@ -1,0 +1,125 @@
+*
+{
+    margin=0;
+    padding:0;
+}
+
+/*body{
+  background: url(image1.jpg) no-repeat center fixed;
+  -webkit-background-size:
+cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:100% 100%;
+overflow: hidden;
+}*/
+
+.color{
+	background-color:#4D4543;
+}
+
+.middle
+{  
+   /* margin-left: 38%;*/
+}
+
+.ml10 {
+  position: relative;
+  font-weight: 900;
+  font-size: 4em;
+}
+
+.ml10 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml10 .letter {
+  display: inline-block;
+  line-height: 1em;
+  transform-origin: 0 0;
+}
+
+
+.img
+{
+	margin-left:42%;
+	margin-top:5%;
+	
+}
+
+.down
+{
+	margin-left:40%;
+}
+
+
+
+/*Social Media Links*/
+
+.myLinks{
+	margin-left:40%;
+}
+
+.myLinks i{
+	
+    color: #999;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+}
+.myLinks i:hover{
+    color: #9acd91;
+    transform: scale(1.5);
+}
+.myLinks li{
+    display: inline;
+    padding: 5px;
+}
+.myLinks li.line{
+    border-left: 1px solid #575757;
+    margin-left: 5px;
+    margin-right: -5px;
+}
+
+.fa-twitter {
+    color: grey;
+}
+
+.fa-google {
+    color: grey;
+}
+
+.fa-linkedin {
+    color: grey;
+}
+
+.fa-slack {
+    color: grey;
+}
+
+.fa-codepen {
+    color: grey;
+}
+
+.fa-pinterest {
+    color: grey;
+}
+
+.fa-medium {
+    color: grey;
+}
+
+.fa-github {
+    color: grey;
+}
+
+.fa-quora {
+    color: grey;
+}
+
+
